@@ -1,0 +1,4 @@
+url=https://www.google.com/
+browserName=chrome
+searchloc=//input[@name='q']
+sheet=Sheet1
